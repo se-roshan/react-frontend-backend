@@ -1,0 +1,6 @@
+roshanroshan@Roshans-MacBook-Air backend % npm init 
+roshanroshan@Roshans-MacBook-Air backend % npm i express 
+roshanroshan@Roshans-MacBook-Air backend % touch server.js
+roshanroshan@Roshans-MacBook-Air backend % 
+
+roshanroshan@Roshans-MacBook-Air backend % npm run start
